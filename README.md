@@ -1,6 +1,7 @@
 # Newsletter Signup Form
 https://kuxala.github.io/Newsletter/
 This is a simple HTML newsletter signup form designed for website visitors to subscribe to a monthly newsletter. It includes product features and utilizes Bootstrap for styling.
+![Capture](https://github.com/kuxala/Newsletter/assets/81477594/fa735e23-d218-43a7-aaca-e03c49615f90)
 
 ## Table of Contents
 
